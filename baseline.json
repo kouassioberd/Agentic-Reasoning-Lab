@@ -1,0 +1,11 @@
+{
+  "metric": "numeric_exact_match",
+  "num_problems": 30,
+  "strategies": {
+    "react": {"correct": 30, "accuracy": 1.0},
+    "plan_execute": {"correct": 30, "accuracy": 1.0},
+    "self_consistency": {"correct": 30, "accuracy": 1.0},
+    "tree_of_thoughts": {"correct": 30, "accuracy": 1.0}
+  }
+}
+

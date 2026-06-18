@@ -1,0 +1,11 @@
+[
+  {"problem_id": "p001", "prediction": "15", "expected": "15", "human_correct": true, "judge_correct": true},
+  {"problem_id": "p004", "prediction": "24", "expected": "24", "human_correct": true, "judge_correct": true},
+  {"problem_id": "p008", "prediction": "59", "expected": "59", "human_correct": true, "judge_correct": true},
+  {"problem_id": "p011", "prediction": "17", "expected": "12", "human_correct": false, "judge_correct": false},
+  {"problem_id": "p014", "prediction": "13.0", "expected": "13", "human_correct": true, "judge_correct": true},
+  {"problem_id": "p018", "prediction": "57", "expected": "35", "human_correct": false, "judge_correct": false},
+  {"problem_id": "p025", "prediction": "4", "expected": "4", "human_correct": true, "judge_correct": true},
+  {"problem_id": "p030", "prediction": "70", "expected": "58", "human_correct": false, "judge_correct": false}
+]
+
