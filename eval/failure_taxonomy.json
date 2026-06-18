@@ -1,0 +1,11 @@
+[
+  {"id": "synthetic_failure_001", "strategy": "react", "mode": "wrong_operation", "note": "Added the give-away quantity instead of subtracting it."},
+  {"id": "synthetic_failure_002", "strategy": "react", "mode": "arithmetic_error", "note": "Correct expression, incorrect multiplication."},
+  {"id": "synthetic_failure_003", "strategy": "plan_execute", "mode": "plan_gap", "note": "Skipped per-box conversion before multiplying sold boxes."},
+  {"id": "synthetic_failure_004", "strategy": "plan_execute", "mode": "wrong_operation", "note": "Treated an irrelevant later-baked quantity as sold."},
+  {"id": "synthetic_failure_005", "strategy": "self_consistency", "mode": "majority_tie", "note": "Two answer clusters tied and fallback selected first sample."},
+  {"id": "synthetic_failure_006", "strategy": "self_consistency", "mode": "parser_ambiguity", "note": "Question asked remaining quantity but parser extracted total produced."},
+  {"id": "synthetic_failure_007", "strategy": "tree_of_thoughts", "mode": "branch_pruned_too_early", "note": "Correct branch scored below a distractor with more overlapping numbers."},
+  {"id": "synthetic_failure_008", "strategy": "tree_of_thoughts", "mode": "arithmetic_error", "note": "Selected correct branch but calculator input omitted parentheses."}
+]
+
